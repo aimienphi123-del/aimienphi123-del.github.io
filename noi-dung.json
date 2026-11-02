@@ -1,0 +1,84 @@
+{
+  "v": 1,
+  "ban": {
+    "ten": "Bùi Tuấn Khanh",
+    "viec": "Học Digital Marketing, làm sản phẩm cùng AI.",
+    "gioiThieu": "Mình tên Khanh, đang học tại Arena Multimedia khóa Digital Marketing. Mình chưa có nhiều kinh nghiệm nhưng rất muốn học hỏi.\n\nMình đang học thêm AI và đang sử dụng Claude AI, Gemini AI, ChatGPT. Mình hiện tại đang sinh sống và làm việc tại TP. Hồ Chí Minh.",
+    "noiSong": "TP. Hồ Chí Minh",
+    "tuoi": "23",
+    "queQuan": "Xã Tân Lạc, Tỉnh Phú Thọ",
+    "danToc": "Mường",
+    "email": "buituankhanh1901@gmail.com",
+    "facebook": "https://www.facebook.com/profile.php?id=61594782612444",
+    "zalo": "https://zaloapp.com/qr/p/c2zq8n5qpjs7",
+    "zaloQr": "anh/zalo-qr.png",
+    "chanDung": "",
+    "loiChao_vi": "Đang học Digital Marketing tại Arena Multimedia và học thêm AI mỗi ngày. Sống và làm việc tại TP. Hồ Chí Minh.",
+    "loiChao_en": ""
+  },
+  "kyNang": [
+    {
+      "id": "k1",
+      "ten": "Digital Marketing (đang học)"
+    },
+    {
+      "id": "k2",
+      "ten": "Claude AI"
+    },
+    {
+      "id": "k3",
+      "ten": "Gemini AI"
+    },
+    {
+      "id": "k4",
+      "ten": "ChatGPT"
+    }
+  ],
+  "kinhNghiem": [],
+  "apps": [
+    {
+      "id": "a1",
+      "ten": "Kiểm Date",
+      "moTa_vi": "App quản lý hạn sử dụng",
+      "moTa_en": "Expiry date manager",
+      "link": "",
+      "anh": ""
+    },
+    {
+      "id": "a2",
+      "ten": "Bờ Biển Đá Đỏ",
+      "moTa_vi": "Game đánh boss pixel",
+      "moTa_en": "Pixel boss-fight game",
+      "link": "",
+      "anh": ""
+    },
+    {
+      "id": "a3",
+      "ten": "BỐC!",
+      "moTa_vi": "Game Thật hay Thách",
+      "moTa_en": "Truth or Dare party game",
+      "link": "",
+      "anh": ""
+    },
+    {
+      "id": "a4",
+      "ten": "BaoKhongNgu",
+      "moTa_vi": "Báo thức và việc cần làm",
+      "moTa_en": "Alarm and to-do list",
+      "link": "",
+      "anh": ""
+    },
+    {
+      "id": "a5",
+      "ten": "Bánh Xe Phối Màu",
+      "moTa_vi": "Công cụ phối màu",
+      "moTa_en": "Color harmony tool",
+      "link": "",
+      "anh": ""
+    }
+  ],
+  "phim": [],
+  "anh": [],
+  "sheetsCsv": "",
+  "hopDen": true
+}
